@@ -1,2 +1,2 @@
 # e_salon
-It is online plat form for booking barber appointment
+It is online platform for booking barber appointment
